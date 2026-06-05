@@ -1,6 +1,6 @@
 ## Hi there, I'm Conor👋
 
-I'm a 2nd year undergraduate AI and Computer Science Student at the University of Edinburgh, mainly interested in computer visision but very open to exploring any areas of AI/Deep Learning.
+I'm a 2nd year undergraduate AI and Computer Science Student at the University of Edinburgh, mainly interested in computer vision but very open to exploring any areas of AI/Deep Learning.
 
 ### About Me
 
